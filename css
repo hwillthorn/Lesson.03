@@ -1,0 +1,108 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Add a relevant page title</title>
+
+  </head>
+  <body>
+body {
+  background-color: lightblue;
+}
+    <main>
+      <!-- ***********************  ABOUT / PROFILE  *********************** -->
+      <header>
+header {
+  background-color: lightblue; 
+}
+div {
+  background-color: lightblue;
+}
+h1 {
+  background-color: red;
+  font-family: Arial black;
+  position: relative;
+  left: 0px;
+  border: 10px;
+  padding: 10px 15px 10px;
+  width: 500px;
+  
+}
+ 
+h2 {
+  background-color: slateblue;
+  font-family: Arial black;
+  width: 500px;
+   
+}
+
+h3 {
+  background-color: orange;
+  font-family: Arial black;
+  width: 500px;
+}
+
+h4 {
+  background-color: dodgerblue;
+  font-family: Arial black;
+  width: 500px;
+}
+h5{
+  background-color: lightgray;
+  font-style: bold;
+  font-family: trebuchet ms;
+  font-size: 18px;
+  padding: 2px 2px 2px;
+  width: 500px;
+  
+}
+
+h6{
+  background-color: lightgreen;
+  font-family: Arial black;
+  font-size: 18px;
+  width: 500px;
+  
+}
+
+h7{
+  background-color: yellow;
+  font-family: Arial black;
+  font-size: 30px;
+  width: 500px;
+}
+h8{
+  font-family: trebuchet ms;
+  padding: 5px 25px 5px;
+  width: 500px
+}
+h9{
+  font-family: Arial black;
+  background-color: lightgreen;
+  left: 0px;
+  border: 10px;
+  padding: 5px 25px 5px;
+  width: 500px;
+  
+  
+}
+
+p {
+  background-color: lightblue;
+  font-family: Trebuchet ms;
+  
+}
+        </header>
+
+      
+
+
+    
+
+
+
+    </footer>
+    </main>
+  
+
+</body></html>
